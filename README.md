@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning golang
 
 
-I like Python.
+I like Python & micropython.
 I can use MSSQL and MySql ,Influxdb.
+The device I'm using is Rpi and ESP32. 
 
 <!---
 y-ookuma/y-ookuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
